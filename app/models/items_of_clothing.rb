@@ -1,0 +1,2 @@
+class ItemsOfClothing < ApplicationRecord
+end
